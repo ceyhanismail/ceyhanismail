@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ceyhanismail
-- 👀 I’m interested in data science and software development.
-- 🌱 I’m currently learning SQL and Python 
+- 👀 I’m interested in data analysis and software development.
+- 🌱 I’m currently learning SQL, Python and SAP 
 - 💞️ I’m looking to collaborate on data science related works. 
-- 📫 How to reach me ismail.ceyhan@uni-bielefeld.de 
+- 📫 How to reach me [Linkedin](http://linkedin.com/in/ismail-ceyhan)
 
 <!---
 ceyhanismail/ceyhanismail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
