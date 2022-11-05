@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceyhanismail
 - 👀 I’m interested in data analysis and software development.
-- 🌱 I’m currently learning SQL, Python and SAP 
-- 💞️ I’m looking to collaborate on data science related works. 
+- 🌱 I’m currently learning SQL, Python and SAP. 
+- I’m looking to collaborate on data analysis related works. 
 - 📫 How to reach me [Linkedin](http://linkedin.com/in/ismail-ceyhan)
 
 <!---
